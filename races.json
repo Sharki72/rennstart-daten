@@ -4,6 +4,7 @@
     {
       "id": "f1-2026-mexiko",
       "series": "F1",
+      "type": "race",
       "name": "Großer Preis von Mexiko-Stadt",
       "country": "MX",
       "start": "2026-11-01T20:00:00Z",
@@ -12,6 +13,7 @@
     {
       "id": "f1-2026-brasilien",
       "series": "F1",
+      "type": "race",
       "name": "Großer Preis von São Paulo",
       "country": "BR",
       "start": "2026-11-08T17:00:00Z",
@@ -20,6 +22,7 @@
     {
       "id": "f1-2026-las-vegas",
       "series": "F1",
+      "type": "race",
       "name": "Großer Preis von Las Vegas",
       "country": "US",
       "start": "2026-11-22T04:00:00Z",
@@ -28,6 +31,7 @@
     {
       "id": "f1-2026-katar",
       "series": "F1",
+      "type": "race",
       "name": "Großer Preis von Katar",
       "country": "QA",
       "start": "2026-11-29T16:00:00Z",
@@ -36,38 +40,79 @@
     {
       "id": "f1-2026-abu-dhabi",
       "series": "F1",
+      "type": "race",
       "name": "Großer Preis von Abu Dhabi",
       "country": "AE",
       "start": "2026-12-06T13:00:00Z",
       "broadcaster": "Sky Sport F1"
     },
     {
+      "id": "motogp-2026-malaysia-sprint",
+      "series": "MOTOGP",
+      "type": "sprint",
+      "name": "Sprint Malaysia",
+      "country": "MY",
+      "start": "2026-10-31T07:00:00Z",
+      "broadcaster": "Sky"
+    },
+    {
       "id": "motogp-2026-malaysia",
       "series": "MOTOGP",
+      "type": "race",
       "name": "Großer Preis von Malaysia",
       "country": "MY",
       "start": "2026-11-01T07:00:00Z",
       "broadcaster": "Sky"
     },
     {
+      "id": "motogp-2026-katar-sprint",
+      "series": "MOTOGP",
+      "type": "sprint",
+      "name": "Sprint Katar",
+      "country": "QA",
+      "start": "2026-11-07T17:00:00Z",
+      "broadcaster": "Sky"
+    },
+    {
       "id": "motogp-2026-katar",
       "series": "MOTOGP",
+      "type": "race",
       "name": "Großer Preis von Katar",
       "country": "QA",
       "start": "2026-11-08T17:00:00Z",
       "broadcaster": "Sky"
     },
     {
+      "id": "motogp-2026-portugal-sprint",
+      "series": "MOTOGP",
+      "type": "sprint",
+      "name": "Sprint Portugal",
+      "country": "PT",
+      "start": "2026-11-21T15:00:00Z",
+      "broadcaster": "Sky"
+    },
+    {
       "id": "motogp-2026-portugal",
       "series": "MOTOGP",
+      "type": "race",
       "name": "Großer Preis von Portugal",
       "country": "PT",
       "start": "2026-11-22T13:00:00Z",
       "broadcaster": "Sky / DF1"
     },
     {
+      "id": "motogp-2026-valencia-sprint",
+      "series": "MOTOGP",
+      "type": "sprint",
+      "name": "Sprint Valencia",
+      "country": "ES",
+      "start": "2026-11-28T14:00:00Z",
+      "broadcaster": "Sky"
+    },
+    {
       "id": "motogp-2026-valencia",
       "series": "MOTOGP",
+      "type": "race",
       "name": "Großer Preis von Valencia",
       "country": "ES",
       "start": "2026-11-29T13:00:00Z",
