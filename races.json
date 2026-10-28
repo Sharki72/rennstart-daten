@@ -5,6 +5,7 @@
       "id": "f1-2026-mexiko",
       "series": "F1",
       "name": "Großer Preis von Mexiko-Stadt",
+      "country": "MX",
       "start": "2026-11-01T20:00:00Z",
       "broadcaster": "Sky Sport F1"
     },
@@ -12,6 +13,7 @@
       "id": "f1-2026-brasilien",
       "series": "F1",
       "name": "Großer Preis von São Paulo",
+      "country": "BR",
       "start": "2026-11-08T17:00:00Z",
       "broadcaster": "Sky Sport F1"
     },
@@ -19,6 +21,7 @@
       "id": "f1-2026-las-vegas",
       "series": "F1",
       "name": "Großer Preis von Las Vegas",
+      "country": "US",
       "start": "2026-11-22T04:00:00Z",
       "broadcaster": "Sky Sport F1 / RTL"
     },
@@ -26,6 +29,7 @@
       "id": "f1-2026-katar",
       "series": "F1",
       "name": "Großer Preis von Katar",
+      "country": "QA",
       "start": "2026-11-29T16:00:00Z",
       "broadcaster": "Sky Sport F1"
     },
@@ -33,6 +37,7 @@
       "id": "f1-2026-abu-dhabi",
       "series": "F1",
       "name": "Großer Preis von Abu Dhabi",
+      "country": "AE",
       "start": "2026-12-06T13:00:00Z",
       "broadcaster": "Sky Sport F1"
     }
