@@ -2,25 +2,39 @@
   "updated": "2026-10-28",
   "races": [
     {
-      "id": "beispiel-1",
+      "id": "f1-2026-mexiko",
       "series": "F1",
-      "name": "Beispiel-Grand-Prix",
-      "start": "2026-11-15T14:00:00Z",
-      "broadcaster": "Beispielsender A"
+      "name": "Großer Preis von Mexiko-Stadt",
+      "start": "2026-11-01T20:00:00Z",
+      "broadcaster": "Sky Sport F1"
     },
     {
-      "id": "beispiel-2",
-      "series": "MOTOGP",
-      "name": "Thailand Test",
-      "start": "2026-11-16T12:00:00Z",
-      "broadcaster": "Beispielsender B"
+      "id": "f1-2026-brasilien",
+      "series": "F1",
+      "name": "Großer Preis von São Paulo",
+      "start": "2026-11-08T17:00:00Z",
+      "broadcaster": "Sky Sport F1"
     },
     {
-      "id": "beispiel-3",
-      "series": "IMSA",
-      "name": "Beispiel-Langstreckenrennen",
-      "start": "2026-11-20T18:30:00Z",
-      "broadcaster": "Beispielsender C"
+      "id": "f1-2026-las-vegas",
+      "series": "F1",
+      "name": "Großer Preis von Las Vegas",
+      "start": "2026-11-22T04:00:00Z",
+      "broadcaster": "Sky Sport F1 / RTL"
+    },
+    {
+      "id": "f1-2026-katar",
+      "series": "F1",
+      "name": "Großer Preis von Katar",
+      "start": "2026-11-29T16:00:00Z",
+      "broadcaster": "Sky Sport F1"
+    },
+    {
+      "id": "f1-2026-abu-dhabi",
+      "series": "F1",
+      "name": "Großer Preis von Abu Dhabi",
+      "start": "2026-12-06T13:00:00Z",
+      "broadcaster": "Sky Sport F1"
     }
   ]
 }
